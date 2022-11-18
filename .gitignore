@@ -45,3 +45,8 @@ Thumbs.db
 .firebase
 *-debug.log
 .runtimeconfig.json
+.browserslistrc
+.vscode/
+.firebaserc
+.editorconfig
+src/assets/.gitkeep
