@@ -4,6 +4,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Angular, TS, Bootstrap 5, Flash Messages, Google Firestore Database
 
+To get the access:
+email: admin@gmail.com
+pssw: admin1234
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
