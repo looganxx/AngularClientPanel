@@ -5,7 +5,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 Angular, TS, Bootstrap 5, Flash Messages, Google Firestore Database
 
 To get the access:
+
 email: admin@gmail.com
+
 pssw: admin1234
 
 ## Development server
